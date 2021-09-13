@@ -1,0 +1,23 @@
+
+{
+  "externalUserId" : "123",
+  "firstName" : "Ronaldo",
+  "familyName" : "Jippers",
+  "companyName" : "Tenerife",
+  "mobilePhoneNumber" : "123",
+  "linePhoneNumber" : "123",
+  "email":  "ronaldo@jipmail.es",
+  "canCall" : true,
+  "title" : "Ronaldo"
+}
+
+{
+"firstName" : "Rickardo",
+"familyName" : "Jhonnes",
+"companyName" : "Up is down",
+"mobilePhoneNumber" : "123",
+"linePhoneNumber" : "123",
+"email":  "johnnesmail@jhonnes.be",
+"canCall" : true,
+"title" : "Rickardo"
+}
